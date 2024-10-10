@@ -1,0 +1,36 @@
+.gameCardContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+    align-items: center;
+    height: 30em;
+    width: 30%;
+    border-radius: 20px;
+    padding: 2em;
+    background-color: var(--accent-color);
+}
+
+.gameCardContainer img{
+    height: 40%
+}
+
+.gameCardContainer h3{
+    height: 20%;
+    font-size: 15px;
+    line-height: 1.5em;
+    letter-spacing: .4em;
+    text-align: center;
+    color: var(--highlight-color);
+}
+
+.gameCardContainer p{
+    text-align: center;
+    height: 30%;
+    font-size: 17px;
+    color: lightgray;
+    font-family: 'Poppins', sans-serif;
+}
+
+.gameCardContainer button{
+    background: var(--highlight-color);
+}

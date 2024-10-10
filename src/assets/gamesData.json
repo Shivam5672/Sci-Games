@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "name": "Rock Paper Scissor",
+        "desc": "A classical game played mostly for taking decision",
+        "imgUrl": "src/assets/rock-paper-scissors.svg",
+        "isFav": false
+    },
+
+    {
+        "id": 2,
+        "name": "Tic Tac Toe",
+        "desc": "A classical game played mostly for taking decision",
+        "imgUrl": "src/assets/tic-tac-toe.svg",
+        "isFav": false
+    },
+
+    {
+        "id": 3,
+        "name": "Flip a Coin",
+        "desc": "A classical game played mostly for taking decision",
+        "imgUrl": "src/assets/coin-flip-svgrepo-com.svg",
+        "isFav": false
+    }
+]
